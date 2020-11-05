@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="ButtonText"> Randomize</string>
+    <string name = "itemone" >Add new name</string>
+    <string name = "itemtwo" >Remove a name</string>
+    <string name="textViewText"> Push the button!</string>
+</resources>
